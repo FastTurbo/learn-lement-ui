@@ -1,6 +1,12 @@
 # elementui
 
-> A Vue.js project
+> A Element UI Learnint stuff
+
+## Need to know
+
+> All this is from https://element.eleme.io .
+> 所有这些都是来自Element-UI官方文档，用起来比较顺手
+> 在学些之前，你首先应该学会Vue.js和ECMAScript
 
 ## Build Setup
 
@@ -11,11 +17,4 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
